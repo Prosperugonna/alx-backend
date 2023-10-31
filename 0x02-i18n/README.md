@@ -1,3 +1,3 @@
 ## Internalization[i18n]
 
-The internalization structure
+The internalization structures
